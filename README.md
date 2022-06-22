@@ -1,5 +1,5 @@
 # Model-based Stationary Distribution Regularization 
-Source codes for the experiments in [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning]().
+Source codes for the experiments in [Regularizing a Model-based Policy Stationary Distribution to Stabilize Offline Reinforcement Learning](https://arxiv.org/abs/2206.07166).
 
 ## Installation
 1. Install basic packages, using *e.g.*,
